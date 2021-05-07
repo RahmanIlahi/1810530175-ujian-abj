@@ -1,0 +1,28 @@
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+
+Masukkan hostname switch ssss
+Masukkan hostname switch np
+Masukkan hostname switch SW1
+Masukkan hostname switch : INTERFACES 0/1
+Masukkan hostname switch : sw2
+Masukkan hostname switch : int 0/1
+Masukkan hostname switch : SW1
+Masukkan hostname switch : int 0/1
